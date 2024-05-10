@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517046551831",
+    "project_id": "ktgkapp",
+    "storage_bucket": "ktgkapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517046551831:android:58a01ed83f0d70ab20a352",
+        "android_client_info": {
+          "package_name": "com.ktgkreactnative"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF3a2LdZ4796C8bkoagEoZFhpfOuos3ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
